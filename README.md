@@ -16,7 +16,7 @@ Di conseguenza, le strisce riprese nelle due direzioni si incrociano trasversalm
 mentre quelle riprese nella stessa direzione tendono ad essere approssimativamente
 parallele e hanno sovrapposizioni trascurabili.
 Poichè non tutta la superficie ha lo stesso interesse e la memoria disponibile a
-bordo per conservare le immagini `e limitata, esiste il problema di scegliere quali
+bordo per conservare le immagini è limitata, esiste il problema di scegliere quali
 porzioni di ciascuna striscia riprendere, accendendo e spegnendo alternativamente
 la telecamera.
 Per semplificare il problema, si possono rappresentare le semiorbite ascendenti e
